@@ -1,0 +1,10 @@
+.thumbnail{
+    max-height: 50%;
+}
+.price{
+    font-weight: bold;
+    font-size: 16px;
+}
+.description{
+    color: #6f7f74;
+}
